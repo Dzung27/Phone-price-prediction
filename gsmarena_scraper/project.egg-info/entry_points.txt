@@ -1,0 +1,2 @@
+[scrapy]
+settings = gsmarena_scraper.settings

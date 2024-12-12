@@ -1,0 +1,11 @@
+REMOTE_ADDR = 43.202.2.174
+REMOTE_PORT = 59042
+REQUEST_METHOD = GET
+REQUEST_URI = /samsung-phones-9.php
+REQUEST_TIME_FLOAT = 1731102432.0485623
+REQUEST_TIME = 1731102432
+HTTP_ACCEPT = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+HTTP_ACCEPT-LANGUAGE = en
+HTTP_USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+HTTP_ACCEPT-ENCODING = gzip, deflate
+HTTP_HOST = gsmarena.com

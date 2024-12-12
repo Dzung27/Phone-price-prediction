@@ -1,0 +1,902 @@
+[
+{
+    "name": "Redmi Note 13R",
+    "link": "https://www.gsmarena.com/xiaomi_redmi_note_13r-13011.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "4G bands": "1, 3, 5, 8, 34, 38, 39, 40, 41",
+            "5G bands": "1, 5, 8, 28, 41, 78 SA/NSA",
+            "Speed": "HSPA, LTE, 5G"
+        },
+        "Launch": {
+            "Announced": "2024, May 17",
+            "Status": "Available. Released 2024, May 17"
+        },
+        "Body": {
+            "Dimensions": "168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in)",
+            "Weight": "205 g (7.23 oz)",
+            "Build": "Glass front, plastic frame, glass back",
+            "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+        },
+        "Display": {
+            "Type": "IPS LCD, 120Hz, 550 nits",
+            "Size": "6.79 inches, 109.5 cm",
+            "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+        },
+        "Platform": {
+            "OS": "Android 14, HyperOS",
+            "Chipset": "Qualcomm SM4450 Snapdragon 4+ Gen 2 (4 nm)",
+            "CPU": "Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55)",
+            "GPU": "Adreno 613"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+        },
+        "Main Camera": {
+            "Dual": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF",
+            "Features": "LED flash, HDR",
+            "Video": "1080p@30fps"
+        },
+        "Selfie camera": {
+            "Single": "8 MP, (wide), 1/4.0\", 1.12µm",
+            "Video": "1080p@30fps"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "Yes"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GLONASS, GALILEO, BDS",
+            "NFC": "Yes",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "USB Type-C"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+        },
+        "Battery": {
+            "Type": "5030 mAh, non-removable",
+            "Charging": "33W wired"
+        },
+        "Misc": {
+            "Colors": "Black, Blue, Silver",
+            "Models": "2406ERN9CC",
+            "Price": "About 180 EUR"
+        }
+    }
+},
+{
+    "name": "Redmi Note 13",
+    "link": "https://www.gsmarena.com/xiaomi_redmi_note_13-12776.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE / 5G",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+            "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 66 - International",
+            "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA - International",
+            "Speed": "HSPA, LTE, 5G"
+        },
+        "Launch": {
+            "Announced": "2024, January 04",
+            "Status": "Available. Released 2024, January 10"
+        },
+        "Body": {
+            "Dimensions": "161.1 x 75 x 7.6 mm (6.34 x 2.95 x 0.30 in)",
+            "Weight": "174.5 g (6.14 oz)",
+            "Build": "Glass front (Gorilla Glass 5), plastic frame, plastic back",
+            "SIM": "Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+        },
+        "Display": {
+            "Type": "AMOLED, 1B colors*, 120Hz, 1000 nits (peak)",
+            "Size": "6.67 inches, 107.4 cm",
+            "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+            "Protection": "Corning Gorilla Glass 5"
+        },
+        "Platform": {
+            "OS": "Android 13, up to 3 major Android upgrades, HyperOS",
+            "Chipset": "Mediatek Dimensity 6080 (6 nm)",
+            "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+            "GPU": "Mali-G57 MC2"
+        },
+        "Memory": {
+            "Card slot": "microSDXC (uses shared SIM slot)",
+            "Internal": "128GB 6GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+        },
+        "Main Camera": {
+            "Triple": "108 MP, f/1.7, (wide), 1/1.67\", 0.64µm, PDAF",
+            "Features": "LED flash, HDR, panorama",
+            "Video": "1080p@30fps"
+        },
+        "Selfie camera": {
+            "Single": "16 MP, f/2.4, (wide)",
+            "Features": "HDR, panorama",
+            "Video": "1080p@30fps"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "Yes"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GLONASS",
+            "NFC": "Yes (market/region dependent)",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "USB Type-C 2.0, OTG"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+        },
+        "Battery": {
+            "Type": "Li-Po 5000 mAh, non-removable",
+            "Charging": "33W wired"
+        },
+        "Misc": {
+            "Colors": "Graphite black (Stealth Black), Arctic White, Ocean Teal, Prism Gold",
+            "Models": "2312DRAABG, 2312DRAABI",
+            "Price": "$ 112.61 / € 197.00 / £ 129.00 / ₹ 14,038"
+        },
+        "Tests": {
+            "Performance": "AnTuTu: 405118 (v9), 455421 (v10)",
+            "Display": "",
+            "Loudspeaker": "",
+            "Battery (new)": ""
+        }
+    }
+},
+{
+    "name": "Poco C50",
+    "link": "https://www.gsmarena.com/xiaomi_poco_c50-12053.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "4G bands": "1, 3, 5, 8, 40, 41",
+            "Speed": "HSPA, LTE"
+        },
+        "Launch": {
+            "Announced": "2023, January 03",
+            "Status": "Available. Released 2023, January 10"
+        },
+        "Body": {
+            "Dimensions": "164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in)",
+            "Weight": "192 g (6.77 oz)",
+            "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+        },
+        "Display": {
+            "Type": "IPS LCD, 400 nits",
+            "Size": "6.52 inches, 102.6 cm",
+            "Resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+        },
+        "Platform": {
+            "OS": "Android 12 (Go edition)",
+            "Chipset": "Mediatek MT6761 Helio A22 (12 nm)",
+            "CPU": "Quad-core 2.0 GHz Cortex-A53",
+            "GPU": "PowerVR GE8320"
+        },
+        "Memory": {
+            "Card slot": "microSDXC (dedicated slot)",
+            "Internal": "32GB 2GB RAM, 32GB 3GB RAM"
+        },
+        "Main Camera": {
+            "Single": "8 MP, f/2.0, (wide)",
+            "Features": "Dual-LED flash, HDR",
+            "Video": "1080p@30fps"
+        },
+        "Selfie camera": {
+            "Single": "5 MP, f/2.0",
+            "Video": "1080p@30fps"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "Yes"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 b/g/n",
+            "Bluetooth": "5.0, A2DP, LE",
+            "Positioning": "GPS, GLONASS, BDS",
+            "NFC": "No",
+            "Radio": "FM radio, recording",
+            "USB": "microUSB 2.0, OTG"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (rear-mounted), accelerometer"
+        },
+        "Battery": {
+            "Type": "Li-Po 5000 mAh, non-removable",
+            "Charging": "10W wired"
+        },
+        "Misc": {
+            "Colors": "Country Green, Royal Blue",
+            "Models": "MZB0D3DIN, 220733SPI, 220733SPH",
+            "SAR": "0.87 W/kg (head)     0.84 W/kg (body)",
+            "Price": "About 80 EUR"
+        }
+    }
+}[
+{
+    "name": "Galaxy Z Fold Special",
+    "link": "https://www.gsmarena.com/samsung_galaxy_z_fold_special-13452.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE / 5G",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+            "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 38, 39, 40, 41, 66",
+            "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6",
+            "Speed": "HSPA, LTE (CA), 5G"
+        },
+        "Launch": {
+            "Announced": "2024, October 21",
+            "Status": "Available. Released 2024, October 24"
+        },
+        "Body": {
+            "Dimensions": "Unfolded: 157.9 x 142.6 x 5.6 mm",
+            "Weight": "236 g (8.32 oz)",
+            "Build": "Glass front (Gorilla Glass Victus 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame",
+            "SIM": "Nano-SIM, eSIM or Dual eSIM"
+        },
+        "Display": {
+            "Type": "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)",
+            "Size": "8.0 inches, 205.3 cm",
+            "Resolution": "1968 x 2184 pixels (~367 ppi density)"
+        },
+        "Platform": {
+            "OS": "Android 14, up to 7 major Android upgrades, One UI 6.1.1",
+            "Chipset": "Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm)",
+            "CPU": "8-core (1x3.39GHz Cortex-X4 & 3x3.1GHz Cortex-A720 & 2x2.9GHz Cortex-A720 & 2x2.2GHz Cortex-A520)",
+            "GPU": "Adreno 750 (1 GHz)"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "512GB 16GB RAM"
+        },
+        "Main Camera": {
+            "Triple": "200 MP, f/1.8, (wide), PDAF, OIS",
+            "Features": "LED flash, HDR, panorama",
+            "Video": "8K@30fps, 4K@60fps, 1080p@60/120/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+"
+        },
+        "Selfie camera": {
+            "Single": "4 MP, f/1.8, 26mm (wide), 2.0µm",
+            "Features": "HDR",
+            "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes, with stereo speakers",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "USB Type-C 3.2, OTG"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Battery": {
+            "Type": "Li-Po 4400 mAh, non-removable",
+            "Charging": "25W wired, QC2.0, 50% in 30 min (advertised)"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Models": "SM-F958N",
+            "SAR": "0.66 W/kg (head)     1.13 W/kg (body)",
+            "Price": "About 1870 EUR"
+        }
+    }
+},
+{
+    "name": "Galaxy A16",
+    "link": "https://www.gsmarena.com/samsung_galaxy_a16-13383.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual sim model only)",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+            "4G bands": "LTE",
+            "Speed": "HSPA, LTE"
+        },
+        "Launch": {
+            "Announced": "2024, October 15",
+            "Status": "Coming soon. Exp. release 2024, November"
+        },
+        "Body": {
+            "Dimensions": "164.4 x 77.9 x 7.9 mm (6.47 x 3.07 x 0.31 in)",
+            "Weight": "200 g (7.05 oz)",
+            "Build": "Glass front, plastic back, plastic frame",
+            "SIM": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+        },
+        "Display": {
+            "Type": "Super AMOLED, 90Hz",
+            "Size": "6.7 inches, 110.2 cm",
+            "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)"
+        },
+        "Platform": {
+            "OS": "Android 14, up to 6 major Android upgrades, One UI 6.1",
+            "Chipset": "Mediatek Helio G99 (6 nm)",
+            "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+            "GPU": "Mali-G57 MC2"
+        },
+        "Memory": {
+            "Card slot": "microSDXC (uses shared SIM slot)",
+            "Internal": "128GB 4GB RAM, 256GB 6GB RAM"
+        },
+        "Main Camera": {
+            "Triple": "50 MP, f/1.8, (wide), AF",
+            "Features": "LED flash, panorama, HDR",
+            "Video": "1080p@30fps"
+        },
+        "Selfie camera": {
+            "Single": "13 MP, f/2.0, (wide)",
+            "Video": "1080p@30fps"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+            "NFC": "Yes (market/region dependent)",
+            "Radio": "FM radio (market/region dependent)",
+            "USB": "USB Type-C 2.0"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+        },
+        "Battery": {
+            "Type": "5000 mAh, non-removable",
+            "Charging": "25W wired"
+        },
+        "Misc": {
+            "Colors": "Gray, water green, midnight blue",
+            "Models": "SM-A165F, SM-A165F/DS, SM-A165M, SM-A165M/DS",
+            "SAR EU": "0.31 W/kg (head)     1.08 W/kg (body)",
+            "Price": "About 200 EUR"
+        }
+    }
+},
+{
+    "name": "Galaxy A16 5G",
+    "link": "https://www.gsmarena.com/samsung_galaxy_a16_5g-13346.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE / 5G",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual sim model only)",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+            "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 66",
+            "5G bands": "1, 3, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA/Sub6",
+            "Speed": "HSPA, LTE, 5G"
+        },
+        "Launch": {
+            "Announced": "2024, October 07",
+            "Status": "Available. Released 2024, October 25"
+        },
+        "Body": {
+            "Dimensions": "164.4 x 77.9 x 7.9 mm (6.47 x 3.07 x 0.31 in)",
+            "Weight": "200 g (7.05 oz)",
+            "Build": "Glass front, plastic back, plastic frame",
+            "SIM": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+        },
+        "Display": {
+            "Type": "Super AMOLED, 90Hz, 800 nits (HBM)",
+            "Size": "6.7 inches, 110.2 cm",
+            "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)"
+        },
+        "Platform": {
+            "OS": "Android 14, up to 6 major Android upgrades, One UI 6.1",
+            "Chipset": "Exynos 1330 (5 nm) or Mediatek Dimensity 6300 (6 nm)",
+            "CPU": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55) or Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+            "GPU": "Mali-G68 MP2 or Mali-G57 MC2"
+        },
+        "Memory": {
+            "Card slot": "microSDXC (uses shared SIM slot)",
+            "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+        },
+        "Main Camera": {
+            "Triple": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF",
+            "Features": "LED flash, panorama, HDR",
+            "Video": "1080p@30fps, gyro-EIS"
+        },
+        "Selfie camera": {
+            "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm",
+            "Video": "1080p@30fps"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+            "NFC": "Yes (market/region dependent)",
+            "Radio": "No",
+            "USB": "USB Type-C 2.0"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass"
+        },
+        "Battery": {
+            "Type": "5000 mAh, non-removable",
+            "Charging": "25W wired"
+        },
+        "Misc": {
+            "Colors": "Blue Black, Light Gray, Gold, Light Green",
+            "Models": "SM-A166B, SM-A166B/DS, SM-A166P, SM-A166P/DS, SM-A166E, SM-A166E/DS",
+            "SAR EU": "0.38 W/kg (head)     0.94 W/kg (body)",
+            "Price": "$ 225.01 / € 209.00 / £ 184.78 / ₹ 18,999"
+        },
+        "Tests": {
+            "Performance": "AnTuTu: 368854 (v9), 435895 (v10)",
+            "Display": "",
+            "Loudspeaker": "",
+            "Battery (new)": ""
+        }
+    }
+}[
+{
+    "name": "Galaxy Z Fold Special",
+    "link": "https://www.gsmarena.com/samsung_galaxy_z_fold_special-13452.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE / 5G",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+            "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 38, 39, 40, 41, 66",
+            "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6",
+            "Speed": "HSPA, LTE (CA), 5G"
+        },
+        "Launch": {
+            "Announced": "2024, October 21",
+            "Status": "Available. Released 2024, October 24"
+        },
+        "Body": {
+            "Dimensions": "Unfolded: 157.9 x 142.6 x 5.6 mm",
+            "Weight": "236 g (8.32 oz)",
+            "Build": "Glass front (Gorilla Glass Victus 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame",
+            "SIM": "Nano-SIM, eSIM or Dual eSIM"
+        },
+        "Display": {
+            "Type": "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)",
+            "Size": "8.0 inches, 205.3 cm",
+            "Resolution": "1968 x 2184 pixels (~367 ppi density)"
+        },
+        "Platform": {
+            "OS": "Android 14, up to 7 major Android upgrades, One UI 6.1.1",
+            "Chipset": "Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm)",
+            "CPU": "8-core (1x3.39GHz Cortex-X4 & 3x3.1GHz Cortex-A720 & 2x2.9GHz Cortex-A720 & 2x2.2GHz Cortex-A520)",
+            "GPU": "Adreno 750 (1 GHz)"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "512GB 16GB RAM"
+        },
+        "Main Camera": {
+            "Triple": "200 MP, f/1.8, (wide), PDAF, OIS",
+            "Features": "LED flash, HDR, panorama",
+            "Video": "8K@30fps, 4K@60fps, 1080p@60/120/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+"
+        },
+        "Selfie camera": {
+            "Single": "4 MP, f/1.8, 26mm (wide), 2.0µm",
+            "Features": "HDR",
+            "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes, with stereo speakers",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "USB Type-C 3.2, OTG"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Battery": {
+            "Type": "Li-Po 4400 mAh, non-removable",
+            "Charging": "25W wired, QC2.0, 50% in 30 min (advertised)"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Models": "SM-F958N",
+            "SAR": "0.66 W/kg (head)     1.13 W/kg (body)",
+            "Price": "About 1870 EUR"
+        }
+    }
+},
+{
+    "name": "Galaxy A16",
+    "link": "https://www.gsmarena.com/samsung_galaxy_a16-13383.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual sim model only)",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+            "4G bands": "LTE",
+            "Speed": "HSPA, LTE"
+        },
+        "Launch": {
+            "Announced": "2024, October 15",
+            "Status": "Coming soon. Exp. release 2024, November"
+        },
+        "Body": {
+            "Dimensions": "164.4 x 77.9 x 7.9 mm (6.47 x 3.07 x 0.31 in)",
+            "Weight": "200 g (7.05 oz)",
+            "Build": "Glass front, plastic back, plastic frame",
+            "SIM": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+        },
+        "Display": {
+            "Type": "Super AMOLED, 90Hz",
+            "Size": "6.7 inches, 110.2 cm",
+            "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)"
+        },
+        "Platform": {
+            "OS": "Android 14, up to 6 major Android upgrades, One UI 6.1",
+            "Chipset": "Mediatek Helio G99 (6 nm)",
+            "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+            "GPU": "Mali-G57 MC2"
+        },
+        "Memory": {
+            "Card slot": "microSDXC (uses shared SIM slot)",
+            "Internal": "128GB 4GB RAM, 256GB 6GB RAM"
+        },
+        "Main Camera": {
+            "Triple": "50 MP, f/1.8, (wide), AF",
+            "Features": "LED flash, panorama, HDR",
+            "Video": "1080p@30fps"
+        },
+        "Selfie camera": {
+            "Single": "13 MP, f/2.0, (wide)",
+            "Video": "1080p@30fps"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+            "NFC": "Yes (market/region dependent)",
+            "Radio": "FM radio (market/region dependent)",
+            "USB": "USB Type-C 2.0"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+        },
+        "Battery": {
+            "Type": "5000 mAh, non-removable",
+            "Charging": "25W wired"
+        },
+        "Misc": {
+            "Colors": "Gray, water green, midnight blue",
+            "Models": "SM-A165F, SM-A165F/DS, SM-A165M, SM-A165M/DS",
+            "SAR EU": "0.31 W/kg (head)     1.08 W/kg (body)",
+            "Price": "About 200 EUR"
+        }
+    }
+},
+{
+    "name": "Galaxy A16 5G",
+    "link": "https://www.gsmarena.com/samsung_galaxy_a16_5g-13346.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE / 5G",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual sim model only)",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+            "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 66",
+            "5G bands": "1, 3, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA/Sub6",
+            "Speed": "HSPA, LTE, 5G"
+        },
+        "Launch": {
+            "Announced": "2024, October 07",
+            "Status": "Available. Released 2024, October 25"
+        },
+        "Body": {
+            "Dimensions": "164.4 x 77.9 x 7.9 mm (6.47 x 3.07 x 0.31 in)",
+            "Weight": "200 g (7.05 oz)",
+            "Build": "Glass front, plastic back, plastic frame",
+            "SIM": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+        },
+        "Display": {
+            "Type": "Super AMOLED, 90Hz, 800 nits (HBM)",
+            "Size": "6.7 inches, 110.2 cm",
+            "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)"
+        },
+        "Platform": {
+            "OS": "Android 14, up to 6 major Android upgrades, One UI 6.1",
+            "Chipset": "Exynos 1330 (5 nm) or Mediatek Dimensity 6300 (6 nm)",
+            "CPU": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55) or Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+            "GPU": "Mali-G68 MP2 or Mali-G57 MC2"
+        },
+        "Memory": {
+            "Card slot": "microSDXC (uses shared SIM slot)",
+            "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+        },
+        "Main Camera": {
+            "Triple": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF",
+            "Features": "LED flash, panorama, HDR",
+            "Video": "1080p@30fps, gyro-EIS"
+        },
+        "Selfie camera": {
+            "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm",
+            "Video": "1080p@30fps"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+            "NFC": "Yes (market/region dependent)",
+            "Radio": "No",
+            "USB": "USB Type-C 2.0"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass"
+        },
+        "Battery": {
+            "Type": "5000 mAh, non-removable",
+            "Charging": "25W wired"
+        },
+        "Misc": {
+            "Colors": "Blue Black, Light Gray, Gold, Light Green",
+            "Models": "SM-A166B, SM-A166B/DS, SM-A166P, SM-A166P/DS, SM-A166E, SM-A166E/DS",
+            "SAR EU": "0.38 W/kg (head)     0.94 W/kg (body)",
+            "Price": "$ 225.01 / € 209.00 / £ 184.78 / ₹ 18,999"
+        },
+        "Tests": {
+            "Performance": "AnTuTu: 368854 (v9), 435895 (v10)",
+            "Display": "",
+            "Loudspeaker": "",
+            "Battery (new)": ""
+        }
+    }
+}[
+{
+    "name": "Galaxy Z Fold Special",
+    "link": "https://www.gsmarena.com/samsung_galaxy_z_fold_special-13452.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE / 5G",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+            "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 38, 39, 40, 41, 66",
+            "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6",
+            "Speed": "HSPA, LTE (CA), 5G"
+        },
+        "Launch": {
+            "Announced": "2024, October 21",
+            "Status": "Available. Released 2024, October 24"
+        },
+        "Body": {
+            "Dimensions": "Unfolded: 157.9 x 142.6 x 5.6 mm",
+            "Weight": "236 g (8.32 oz)",
+            "Build": "Glass front (Gorilla Glass Victus 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame",
+            "SIM": "Nano-SIM, eSIM or Dual eSIM"
+        },
+        "Display": {
+            "Type": "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)",
+            "Size": "8.0 inches, 205.3 cm",
+            "Resolution": "1968 x 2184 pixels (~367 ppi density)"
+        },
+        "Platform": {
+            "OS": "Android 14, up to 7 major Android upgrades, One UI 6.1.1",
+            "Chipset": "Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm)",
+            "CPU": "8-core (1x3.39GHz Cortex-X4 & 3x3.1GHz Cortex-A720 & 2x2.9GHz Cortex-A720 & 2x2.2GHz Cortex-A520)",
+            "GPU": "Adreno 750 (1 GHz)"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "512GB 16GB RAM"
+        },
+        "Main Camera": {
+            "Triple": "200 MP, f/1.8, (wide), PDAF, OIS",
+            "Features": "LED flash, HDR, panorama",
+            "Video": "8K@30fps, 4K@60fps, 1080p@60/120/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+"
+        },
+        "Selfie camera": {
+            "Single": "4 MP, f/1.8, 26mm (wide), 2.0µm",
+            "Features": "HDR",
+            "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes, with stereo speakers",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "USB Type-C 3.2, OTG"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Battery": {
+            "Type": "Li-Po 4400 mAh, non-removable",
+            "Charging": "25W wired, QC2.0, 50% in 30 min (advertised)"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Models": "SM-F958N",
+            "SAR": "0.66 W/kg (head)     1.13 W/kg (body)",
+            "Price": "About 1870 EUR"
+        }
+    }
+},
+{
+    "name": "Galaxy A16",
+    "link": "https://www.gsmarena.com/samsung_galaxy_a16-13383.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual sim model only)",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+            "4G bands": "LTE",
+            "Speed": "HSPA, LTE"
+        },
+        "Launch": {
+            "Announced": "2024, October 15",
+            "Status": "Coming soon. Exp. release 2024, November"
+        },
+        "Body": {
+            "Dimensions": "164.4 x 77.9 x 7.9 mm (6.47 x 3.07 x 0.31 in)",
+            "Weight": "200 g (7.05 oz)",
+            "Build": "Glass front, plastic back, plastic frame",
+            "SIM": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+        },
+        "Display": {
+            "Type": "Super AMOLED, 90Hz",
+            "Size": "6.7 inches, 110.2 cm",
+            "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)"
+        },
+        "Platform": {
+            "OS": "Android 14, up to 6 major Android upgrades, One UI 6.1",
+            "Chipset": "Mediatek Helio G99 (6 nm)",
+            "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+            "GPU": "Mali-G57 MC2"
+        },
+        "Memory": {
+            "Card slot": "microSDXC (uses shared SIM slot)",
+            "Internal": "128GB 4GB RAM, 256GB 6GB RAM"
+        },
+        "Main Camera": {
+            "Triple": "50 MP, f/1.8, (wide), AF",
+            "Features": "LED flash, panorama, HDR",
+            "Video": "1080p@30fps"
+        },
+        "Selfie camera": {
+            "Single": "13 MP, f/2.0, (wide)",
+            "Video": "1080p@30fps"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+            "NFC": "Yes (market/region dependent)",
+            "Radio": "FM radio (market/region dependent)",
+            "USB": "USB Type-C 2.0"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+        },
+        "Battery": {
+            "Type": "5000 mAh, non-removable",
+            "Charging": "25W wired"
+        },
+        "Misc": {
+            "Colors": "Gray, water green, midnight blue",
+            "Models": "SM-A165F, SM-A165F/DS, SM-A165M, SM-A165M/DS",
+            "SAR EU": "0.31 W/kg (head)     1.08 W/kg (body)",
+            "Price": "About 200 EUR"
+        }
+    }
+},
+{
+    "name": "Galaxy A16 5G",
+    "link": "https://www.gsmarena.com/samsung_galaxy_a16_5g-13346.php",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE / 5G",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual sim model only)",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+            "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 66",
+            "5G bands": "1, 3, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA/Sub6",
+            "Speed": "HSPA, LTE, 5G"
+        },
+        "Launch": {
+            "Announced": "2024, October 07",
+            "Status": "Available. Released 2024, October 25"
+        },
+        "Body": {
+            "Dimensions": "164.4 x 77.9 x 7.9 mm (6.47 x 3.07 x 0.31 in)",
+            "Weight": "200 g (7.05 oz)",
+            "Build": "Glass front, plastic back, plastic frame",
+            "SIM": "Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+        },
+        "Display": {
+            "Type": "Super AMOLED, 90Hz, 800 nits (HBM)",
+            "Size": "6.7 inches, 110.2 cm",
+            "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)"
+        },
+        "Platform": {
+            "OS": "Android 14, up to 6 major Android upgrades, One UI 6.1",
+            "Chipset": "Exynos 1330 (5 nm) or Mediatek Dimensity 6300 (6 nm)",
+            "CPU": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55) or Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+            "GPU": "Mali-G68 MP2 or Mali-G57 MC2"
+        },
+        "Memory": {
+            "Card slot": "microSDXC (uses shared SIM slot)",
+            "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+        },
+        "Main Camera": {
+            "Triple": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF",
+            "Features": "LED flash, panorama, HDR",
+            "Video": "1080p@30fps, gyro-EIS"
+        },
+        "Selfie camera": {
+            "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm",
+            "Video": "1080p@30fps"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+            "NFC": "Yes (market/region dependent)",
+            "Radio": "No",
+            "USB": "USB Type-C 2.0"
+        },
+        "Features": {
+            "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass"
+        },
+        "Battery": {
+            "Type": "5000 mAh, non-removable",
+            "Charging": "25W wired"
+        },
+        "Misc": {
+            "Colors": "Blue Black, Light Gray, Gold, Light Green",
+            "Models": "SM-A166B, SM-A166B/DS, SM-A166P, SM-A166P/DS, SM-A166E, SM-A166E/DS",
+            "SAR EU": "0.38 W/kg (head)     0.94 W/kg (body)",
+            "Price": "$ 225.01 / € 209.00 / £ 184.78 / ₹ 18,999"
+        },
+        "Tests": {
+            "Performance": "AnTuTu: 368854 (v9), 435895 (v10)",
+            "Display": "",
+            "Loudspeaker": "",
+            "Battery (new)": ""
+        }
+    }
+}
+]
