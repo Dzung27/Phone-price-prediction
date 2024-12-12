@@ -1,0 +1,15 @@
+setup.py
+gsmarena_scraper/__init__.py
+gsmarena_scraper/items.py
+gsmarena_scraper/middlewares.py
+gsmarena_scraper/pipelines.py
+gsmarena_scraper/settings.py
+gsmarena_scraper/spiders/__init__.py
+gsmarena_scraper/spiders/phone_gsm.py
+gsmarena_scraper/spiders/samsung_gsm.py
+gsmarena_scraper/spiders/small_gsm.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
