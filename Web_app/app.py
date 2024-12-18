@@ -18,7 +18,7 @@ def home():
     model_options = list(model_directory.keys())
     brands = set()
     for dir in model_directory.values():
-        brands.update([file.split('_')[0] for file in os.listdir(dir) if 'stacking_model' in file])
+        brands.update([file.split('_')[0] for file in os.listdir(dir) if 'model' in file])
     brands = list(brands)
     print("Model Options:", model_options)  # Debug output
     print("Brands:", brands)  # Debug output
@@ -46,7 +46,7 @@ def predict():
     brand = data['brand']
 
     # Build paths to the model and scaler files
-    model_path = os.path.join(model_directory[selected_model], f"{brand}_stacking_model.pkl")
+    model_path = os.path.join(model_directory[selected_model], f"{brand}_model.pkl")
     scaler_path = os.path.join(model_directory[selected_model], f"{brand}_scaler.pkl")
 
     # Load the selected model and scaler
