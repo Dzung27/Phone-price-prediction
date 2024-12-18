@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Phone Price Predictor</title>
+    <!-- Include jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        header {
+            text-align: center;
+            width: 100%;
+            padding: 20px 0; /* Adds padding above and below the header text */
+            font-size: 24px; /* Larger font size for the title */
+            font-weight: bold;
+            margin-bottom: 10px; /* Space between the header and the form */
+        }
+        form {
+            display: grid;
+            flex-direction: column;
+            width: 50%; /* Adjust the width as necessary */
+            padding: 15px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 80px; /* Add space at the top of the form */
+        }
+        /*.form-group {*/
+        /*    margin-bottom: 15px; !* Space between each form group *!*/
+        /*}*/
+
+        input, select {
+            width: 100%; /* Full width of the form-group */
+            padding: 10px;
+            box-sizing: border-box; /* Include padding in width calculation */
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #result, #error {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+    <script>
+        $(document).ready(function() {
+            $('form').submit(function(event) {
+                event.preventDefault(); // Prevent the default form submission
+                var formData = $(this).serialize(); // Serialize form data
+                $.ajax({
+                    type: 'POST',
+                    url: '/predict',
+                    data: formData,
+                    success: function(response) {
+                        $('#result').text('Predicted Price: ' + response.prediction); // Display the prediction
+                        $('#error').text(''); // Clear any previous error message
+                    },
+                    error: function(error) {
+                        $('#error').text('Error: ' + error.responseJSON.error); // Display error message
+                        $('#result').text(''); // Clear any previous result
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <form>
+        <header>Phone Price Predictor</header>
+        <div class="form-group">
+            <label for="model_option">Model:</label>
+            <select name="model_option" id="model_option">
+                {% for model in model_options %}
+                <option value="{{ model }}">{{ model }}</option>
+                {% endfor %}
+            </select>
+            <label for="brand">Brand:</label>
+            <select name="brand" id="brand">
+                {% for brand in brands %}
+                <option value="{{ brand }}">{{ brand }}</option>
+                {% endfor %}
+            </select>
+        {% for name, metric in name_metric_pairs %}
+            <label for="{{name}}">{{name.replace('_', ' ').title()}} ({{metric}}):</label>
+            <input type="text" name="{{name}}" id="{{name}}" placeholder="{{metric}}">
+        </div>
+        {% endfor %}
+        <button type="submit">Predict Price</button>
+        <div id="result"></div>
+        <div id="error"></div>
+    </form>
+</body>
+</html>
